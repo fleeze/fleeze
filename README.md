@@ -5,4 +5,4 @@ Dependencies:
 
 # How to run
 · Build it with:
-``` npm run build:win32```
+<br/>``` npm run build:win32```
