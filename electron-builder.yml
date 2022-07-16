@@ -1,0 +1,12 @@
+appId: me.fleeze.app
+productName: Fleeze
+copyright: Copyright © 2022 Evgeny Kireev
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
